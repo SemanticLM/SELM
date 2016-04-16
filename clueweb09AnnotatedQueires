@@ -1,0 +1,136 @@
+topic-1	534366	Barack Obama	30	41	/m/02mjmr	0.99809676
+topic-2	8511510	French Lick Resort and Casino 20	48	/m/02761b3	1.0
+topic-2	21883857	Indiana	53	59	/m/03v1s	0.887894
+topic-5	502360	Mitchell College	23	38	/m/02j07k	1
+topic-5	89514	New London	43	52	/m/0mb2b	0.95099443
+topic-5	6466	CT	55	56	/m/01x73	0.95689774
+topic-6	345688	Kansas City Southern railroad	24	52	/m/01ypfy	1.0
+topic-11	255232	GMAT	55	58	/m/01ltx9	0.99998611
+topic-16	21883824	Arizona	57	63	/m/0vmt	0.83050931
+topic-19	1191667	The Current	32	42	/m/04g0jz	0.99668175
+topic-19	61196	Minnesota Public Radio	58	79	/m/0jt25d4	0.99872625
+topic-20	1370321	Windows Defender	32	47	/m/04xd0g	1
+topic-21	32412	Volvo	31	35	/m/07yw2	0.74342716
+topic-22	735151	Rick Warren	31	41	/m/036vk_	1
+topic-23	188213	Yahoo!	42	47	/m/019rl6	0.99688178
+topic-25	12108	Greek	24	28	/m/035qy	0.42395937
+topic-25	9331	Euclid	44	49	/m/02k02	0.91767383
+topic-27	178771	Starbucks	42	50	/m/018c_r	0.99999565
+topic-28	113028	InuYasha	23	30	/m/0svln	0.98150146
+topic-28	15573	Japanese	37	44	/m/03_3d	0.96023148
+topic-29	15822958	Playstation 2	47	59	/m/066kp	0.9999944
+topic-31	2234	Atari	23	27	/m/0xwj	0.89014339
+topic-35	125235	Hoboken	32	38	/m/0xn7b	0.98871285
+topic-35	21648	New Jersey	41	50	/m/05fjf	0.9806565
+topic-37	888155	Pampered Chef	47	59	/m/03lz53	1
+topic-39	15937788	Disneyland	35	44	/m/02fzs	0.79280078
+topic-39	77520	Anaheim	49	55	/m/0k9p4	0.83942592
+topic-39	5407	California	58	67	/m/01n7q	0.97531193
+topic-40	18859	Michigan	37	44	/m/04rrx	0.79493862
+topic-41	6961997	Orange County Convention Center	34	64	/m/0gyytc	1
+topic-41	100582	Orlando	69	75	/m/0ply0	0.96947575
+topic-41	18933066	Florida	78	84	/m/02xry	0.94389719
+topic-42	97723	The Music Man	61	73	/m/0p4s9	1.0
+topic-43	410873	The Secret Garden	35	51	/m/0251j3	1.0
+topic-43	161229	Frances Hodgson Burnett	61	83	/m/015bvl	1
+topic-44	3434750	United States	17	29	/m/09c7w0	0.99834836
+topic-46	5198401	Alexian Brothers	27	42	/m/0d7dx3	1
+topic-52	1060945	AVP	43	45	/m/042kyz	1.0
+topic-52	2603563	Association of Volleyball Professionals	52	90	/m/07r1bv	0.99980587
+topic-53	77807	Discovery Channel	37	53	/m/0kc8y	0.92252183
+topic-54	24113	President of the United States	37	66	/m/060d2	0.99791628
+topic-56	216058	USS Yorktown	24	35	/m/01fmw0	0.98403788
+topic-56	2704488	Patriots Point	100	113	/m/07z1_0	1
+topic-56	7758259	Charleston Harbor	125	141	/m/026c23_	1
+topic-56	27956	SC	144	145	/m/06yxd	0.99272364
+topic-57	6466	Connecticut	31	41	/m/01x73	0.8562929
+topic-60	137979	Bellevue	23	30	/m/010r6f	0.72081864
+topic-60	13015878	Washington	33	42	/m/081yw	0.64421123
+topic-62	757040	U.S. Customs and Border Patrol	27	56	/m/038r8p	1.0
+topic-62	29810	Texas	68	72	/m/07b_l	0.90533257
+topic-62	3966054	Mexico	86	91	/m/0b90_r	0.98094052
+topic-63	267693	Flushing	23	30	/m/01nl79	0.9857794
+topic-63	645042	New York City	51	63	/m/02_286	0.99692297
+topic-65	16756	Korean	38	43	/m/02hwhyv	0.68931347
+topic-67	502410	VLDL	23	26	/m/02j0jq	1
+topic-70	729006	To be or not to be	45	62	/m/048dcw9	0.47345576
+topic-70	13554	Hamlet	28	33	/m/03j9w	0.450131
+topic-71	14533	India	33	37	/m/03rk0	0.988877
+topic-72	26751	Sun	27	29	/m/06m_p	0.9220863
+topic-72	26903	Solar System	48	59	/m/06p5g	0.99808556
+topic-73	87985	Neil Young	59	68	/m/0m2l9	0.98930627
+topic-77	171820	Bobcat	31	36	/m/0172m8	0.97740614
+topic-81	737	Afghanistan	23	33	/m/0jdd	0.99029642
+topic-85	1272811	Milwaukee Journal Sentinel	26	51	/m/04p2zc	1
+topic-86	60340	BART	27	30	/m/0gdjj	0.99019378
+topic-86	60340	Bay Area Rapid Transit	33	54	/m/0gdjj	0.99019378
+topic-86	49728	San Francisco	67	79	/m/0d6lp	0.94487911
+topic-90	1426566	MGB	24	26	/m/050m63	0.99315619
+topic-91	177153	ER	44	45	/m/0180mw	0.89297444
+topic-92	5079506	Pink Floyd	27	36	/m/01wv9xn	0.99690217
+topic-92	149116	The Wall	46	53	/m/01hdgtt	0.55433565
+topic-93	879920	Raffles Hotel	21	33	/m/03l630	0.99993736
+topic-93	27318	Singapore	38	46	/m/06t2t	0.99365354
+topic-94	1278087	Nissan Titan	24	35	/m/04pkkj	1
+topic-97	17416221	South Africa	62	73	/m/0hzlz	0.99286133
+topic-98	144716	SAT	31	33	/m/012b_l	0.99757075
+topic-100	654486	Rincon	23	28	/m/02_zt7	1.0
+topic-100	23041	Puerto Rico	31	41	/m/05r7t	0.945757
+topic-101	9428452	Ritz Carlton	27	38	/m/07x9q0	0.999998
+topic-101	2237980	Lake Las Vegas	50	63	/m/06y9l6	1
+topic-102	21650	North Carolina	52	65	/m/05fkf	0.9955039
+topic-103	472573	C. J. Walker	40	51	/m/02dp7g	1
+topic-104	21883857	Indiana	76	82	/m/03v1s	0.84081191
+topic-105	82117	Sonoma County	39	51	/m/0l35f	0.99997616
+topic-105	5407	California	54	63	/m/01n7q	0.97250259
+topic-106	170326	Universal	21	29	/m/016tw3	0.64148027
+topic-107	94674	Cass County	35	45	/m/0nfgq	0.95227563
+topic-107	19571	MO	48	49	/m/04ych	0.99474686
+topic-109	160843	Mayo Clinic	43	53	/m/0158xh	0.99320436
+topic-109	60613	Jacksonville	58	69	/m/0ggh3	0.76522219
+topic-109	18933066	FL	72	73	/m/02xry	0.97183645
+topic-110	3383	Brazil	58	63	/m/015fr	0.94327462
+topic-126	31979	US Capitol	32	41	/m/07vth	1
+topic-127	50528	Dutchess County	36	50	/m/0dc3_	0.99997908
+topic-127	8210131	NY	53	54	/m/059rby	0.9849568
+topic-129	26810748	Iowa	31	34	/m/03s0w	0.86529619
+topic-130	44475	Uranus	34	39	/m/0c3ss	0.90452009
+topic-132	46276	Mothers' Day	28	39	/m/0cjjt	0.9985705
+topic-135	21244	Source of the Nile	28	45	/m/0c_j8w	0.99996233
+topic-139	1897579	Rocky Mountain News	40	58	/m/064m90	1
+topic-140	13817127	East Ridge High School	16	37	/m/03ck4lv	0.99995458
+topic-140	13817127	Lick Creek	42	51	/m/04942fl	0.99787742
+topic-140	16846	Kentucky	54	61	/m/0498y	0.97094852
+topic-141	32432	Virginia	55	62	/m/07z1m	0.93467832
+topic-142	14849	Illinois	35	42	/m/03v0t	0.93354666
+topic-143	106883	Arkadelphia	41	51	/m/0qs34	0.72071433
+topic-143	1930	Arkansas	54	61	/m/0vbk	0.90192533
+topic-148	190995	Martha Stewart	32	45	/m/01b370	0.99941671
+topic-149	34340	Yellowstone National Park	37	61	/m/08874	0.99991733
+topic-150	7945672	Tennessee Highway Patrol	38	61	/m/026k_zt	1
+topic-153	1180662	Pocono Mountains	65	80	/m/04f0jl	1
+topic-153	23332	Pennsylvania	50	61	/m/05tbn	0.97266567
+topic-155	73190	Last Supper	22	32	/m/0jnz3	1.0
+topic-155	18079	Leonardo da Vinci	46	62	/m/04lg6	0.92653871
+topic-156	489589	University of Phoenix	40	60	/m/02gnrt	1
+topic-157	29812	Beatles	18	24	/m/07c0j	0.98559463
+topic-159	108303	Porterville	25	35	/m/0r7yf	0.993567
+topic-159	5407	CA	38	39	/m/01n7q	0.98023307
+topic-163	1930	Arkansas	8	15	/m/0vbk	0.72256583
+topic-167	3455	Barbados	20	27	/m/0162v	0.99367785
+topic-169	3434750	US	35	36	/m/09c7w0	0.98167694
+topic-171	58928	Ron Howard	16	25	/m/0g2lq	0.99650657
+topic-179	2154	African Americans	20	36	/m/0x67	0.9999634
+topic-179	3434750	United States	45	57	/m/09c7w0	0.99934417
+topic-180	645042	New York City	27	39	/m/02_286	0.99683952
+topic-183	17454	Kansas City	14	24	/m/04f_d	0.39327508
+topic-183	19571	MO	27	28	/m/04ych	0.94317877
+topic-184	188746	Civil Rights Act of 1964	34	57	/m/019twb	1
+topic-186	77940	University of North Carolina	30	57	/m/0kd90	0.94493872
+topic-187	32443	Vanuatu	29	35	/m/07z5n	0.99996126
+topic-190	802150	Brooks Brothers	5	19	/m/03d452	0.9999575
+topic-191	955377	Churchill Downs	43	57	/m/03t3lq	0.9999963
+topic-192	18933066	Florida	35	41	/m/02xry	0.94525594
+topic-197	14607	Idaho	28	32	/m/03s5t	0.9897756
+topic-200	108010	Ontario	32	38	/m/0r4nh	1.0
+topic-200	5407	CA	41	42	/m/01n7q	0.76446283
